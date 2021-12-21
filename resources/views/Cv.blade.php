@@ -41,7 +41,7 @@
             </div>
             <div class="text-holder text-center">
                 <h2>Manuel Cumbe</h2>
-                <h6>Front-End Developer</h6>
+                <h6>Software Developer</h6>
             </div>
         </div>
     </div>
@@ -91,7 +91,7 @@
 
                                 <div class="info-headings">
                                     <h4 class="text-uppercase left">Manuel Camões Cumbe</h4>
-                                    <h6 class="text-capitalize left">Front-End Developer</h6>
+                                    <h6 class="text-capitalize left">Software Developer</h6>
                                 </div>
 
                                 <div class="infos">
